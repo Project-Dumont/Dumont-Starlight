@@ -5,9 +5,9 @@ using Robust.Shared.Utility;
 
 namespace Content.Shared.Localizations
 {
-    public sealed class ContentLocalizationManager // pt-BR change
+    public sealed partial class ContentLocalizationManager // pt-BR change
     {
-        [Dependency] private readonly ILocalizationManager _loc = default!; // pt-BR change
+        [Dependency] private ILocalizationManager _loc = default!; // pt-BR change
 
         // If you want to change your codebase's language, do it here.
         // pt-BR start
