@@ -1,0 +1,23 @@
+ent-BaseVehicle = Veículo
+     .desc = { "" }
+
+ent-VehiclePussyWagon = janicart
+     .desc = O fiel corcel do zelador.
+
+ent-VehiclePussyWagonDestroyed = janicart destruído
+     .desc = R.I.P.
+
+ent-VehicleSecway = secway
+     .desc = O futuro do transporte. Popularizado por São Tiago, o santo padroeiro dos agentes de segurança e moderadores de fóruns da Internet.
+
+ent-VehicleATV = ATV
+     .desc = Veículo todo em bloco.
+
+ent-VehicleSyndicateSegway = Sindicato segway
+     .desc = Seja um inimigo da corporação, com estilo.
+
+ent-VehicleWheelchair = cadeira de rodas
+     .desc = Você sente mal por quem precisa de uma dessas.
+
+ent-VehicleWheelchairFolded = cadeira de rodas
+     .desc = Você sente mal por quem precisa de uma dessas.
