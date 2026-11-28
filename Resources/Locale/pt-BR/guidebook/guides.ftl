@@ -1,0 +1,201 @@
+guide-entry-engineering = Engenharia
+guide-entry-construction = Construção
+guide-entry-airlock-security = Upgrades de Portas
+guide-entry-atmospherics = Ar
+guide-entry-botany = Botânica
+guide-entry-fires = Fogos e Espaço
+guide-entry-shuttle-craft = Construção de Naves
+guide-entry-networking = Rede
+guide-entry-network-configurator = Configurador de Rede
+guide-entry-access-configurator = Configurador de Acesso
+guide-entry-power = Energia
+guide-entry-portable-generator = Geradores Portáteis
+guide-entry-ame = Motor de antimatéria (AME)
+guide-entry-singularity = Singularidade
+guide-entry-teg = Gerador Termoelétrico (TEG)
+guide-entry-rtg = RTG
+guide-entry-controls = Controles
+guide-entry-radio = Radio
+guide-entry-jobs = Trabalhos
+guide-entry-cargo = Cargo
+guide-entry-cargo-bounties = Recompensas da Carga
+guide-entry-salvage = Salvamento
+guide-entry-survival = Sobrevivência
+guide-entry-chemicals = Substâncias Químicas
+guide-entry-ss14 = Space Station 14
+guide-entry-janitorial = Zeladoria
+guide-entry-bartender = Bartender
+guide-entry-chef = Chefe de cozinha
+guide-entry-foodrecipes = Receitas Culinárias
+guide-entry-medical = Medicina
+guide-entry-medicaldoctor = Médico
+guide-entry-chemist = Químico
+guide-entry-medicine = Farmacologia
+guide-entry-brute = Medicação Avançada para Traumas
+guide-entry-plastic = Produção de Recursos
+guide-entry-botanicals = Botânica
+guide-entry-cloning = Clonagem
+guide-entry-cryogenics = Criogênica
+guide-entry-science = Ciência
+guide-entry-technologies = Tecnologias
+guide-entry-anomalous-research = Pesquisa Anômala
+guide-entry-scanners-and-vessels = Escaners e Vassalos
+guide-entry-ape = A.P.E.
+guide-entry-xenoarchaeology = Xenoarqueologia
+guide-entry-artifact-reports = Relatórios de Artefatos
+guide-entry-traversal-distorter = Distortor Transversal
+guide-entry-machine-upgrading = Melhorando Máquinas
+guide-entry-robotics = Robótica
+guide-entry-cyborgs = ciborgues
+guide-entry-security = Segurança
+guide-entry-forensics = Forensics
+guide-entry-defusal = Desativação de Bomba Grande
+guide-entry-criminal-records = Registros Criminais
+guide-entry-species = Espécies
+guide-entry-xenobiology = Xenobiologia
+guide-entry-rules-sl-crime-list = Lista de crimes
+
+guide-entry-thermomachies = Máquinas térmicas
+
+guide-entry-antagonists = Antagonistas
+guide-entry-nuclear-operatives = Operativos Nucleares
+guide-entry-traitors = Traidores
+guide-entry-zombies = Zumbis
+guide-entry-revolutionaries = Revolucionários
+guide-entry-minor-antagonists = Antagonistas Menores
+guide-entry-space-ninja = Ninja Espacial
+guide-entry-corporate-agent = Agente Corporativo
+guide-entry-bingle = Bingle
+guide-entry-changeling = Metamorfo
+guide-entry-changeling-abilities = Habilidades de Metamorfo
+guide-entry-devil = Diabo
+guide-entry-devil-clause = Cláusulas do Diabo
+guide-entry-slasher = Slasher # Não tem tradução boa pra isso
+
+guide-entry-writing = Escrita
+guide-entry-lei-espacial = Lei Espacial
+guide-entry-codigo-penal = Código Penal
+guide-entry-IPCs = IPCs
+guide-entry-glossary = glossário
+guide-entry-reverse-engineering = Engenharia reversa
+guide-entry-epistemics = Epistêmica
+guide-entry-psionics = Psiônicos
+guide-entry-altars-golemancy = Altares e Golemância
+guide-entry-space-law = Lei Espacial
+guide-entry-jurisdiction = Jurisdição
+guide-entry-trial-prodedure = Procedimento de julgamento
+guide-entry-charges-and-times = Acusações e Sentenças
+
+guide-entry-dna = DNA
+
+guide-entry-chemistry = Química
+guide-entry-cookbook = O livro de receitas
+
+# Receitas
+
+guide-entry-burgers = Hambúrgueres
+guide-entry-cakes = Bolos
+guide-entry-pastries = Pastelaria
+guide-entry-pizzas = Pizza
+guide-entry-kebabs = Kebabs
+guide-entry-sandwiches = Pães e Sanduíches
+guide-entry-snacks = Lanches
+guide-entry-pasta = Macarrão e Arroz
+guide-entry-soups = Sopas
+guide-entry-salads = Saladas
+guide-entry-sauces = Condimentos
+
+guide-entry-rules-r21 = R21
+
+
+# Novas Regras
+
+
+guide-entry-rules-x1 = X1
+guide-entry-rules-x2 = X2
+guide-entry-rules-sl0 = SL10
+guide-entry-rules-sl1 = SL11
+guide-entry-rules-sl2 = SL12
+guide-entry-rules-sl3 = SL13
+guide-entry-rules-sl4 = SL14
+guide-entry-rules-sl5 = SL15
+guide-entry-rules-sl6 = SL16
+guide-entry-rules-sl7 = SL17
+guide-entry-rules-sl8 = SL18
+guide-entry-rules-sl9 = SL19
+guide-entry-rules-sl10 = SL10
+guide-entry-rules-sl11 = SL11
+guide-entry-rules-sl12 = SL12
+guide-entry-rules-sl13 = SL13
+guide-entry-rules-sl14 = SL14
+guide-entry-rules-sl15 = SL15
+guide-entry-rules-sl16 = SL16
+guide-entry-rules-a1 = A1
+guide-entry-rules-a2 = A2
+guide-entry-rules-a3 = A3
+guide-entry-rules-a4 = A4
+guide-entry-rules-a5 = A5
+guide-entry-rules-a6 = A6
+guide-entry-rules-a7 = A7
+guide-entry-rules-a8 = A8
+guide-entry-rules-a9 = A9
+guide-entry-rules-a10 = A10
+guide-entry-rules-a11 = A11
+guide-entry-rules-a12 = A12
+guide-entry-rules-a13 = A13
+guide-entry-rules-a14 = A14
+
+
+guide-entry-rules-sandbox = Sandbox
+guide-entry-rules-antag = Antagônista
+
+# Nova Lei Espacial
+
+guide-entry-space-law-homicide = Homicídio
+guide-entry-space-law-corporal-lesion = Lesão Corporal
+guide-entry-space-law-help-omission = Omissão
+guide-entry-space-law-kidnapping = Sequestro
+guide-entry-space-law-theft = Furto
+guide-entry-space-law-robbery = Roubo
+guide-entry-space-law-fraud = Estelionato
+guide-entry-space-law-vandalism = Vandalismo
+guide-entry-space-law-possession = Possessão
+guide-entry-space-law-corporate-treason = Traição Corporativa
+guide-entry-space-law-sabotage = Sabotagem
+guide-entry-space-law-insurrection = Insurreição
+guide-entry-space-law-usurpation = Usurpação
+guide-entry-space-law-invasion = Invasão
+guide-entry-space-law-contraband = Contrabando
+guide-entry-space-law-ideological-falsehood = Falsidade Ideológica
+guide-entry-space-law-occultism = Ocultismo
+guide-entry-space-law-forbidden-production = Produção Proibida
+guide-entry-space-law-power-abuse = Abuso de Poder
+guide-entry-space-law-abandonment = Abandono
+guide-entry-space-law-malfeasance = Prevaricação
+guide-entry-space-law-administrative-omission = Omissão Administrativa
+guide-entry-space-law-incompetence = Incopetência
+guide-entry-space-law-inadequate-conduct = Condução Inadequada
+guide-entry-space-law-insubordination = Insubordinação
+guide-entry-space-law-defamation = Defamação
+guide-entry-space-law-slander = Calúnia
+guide-entry-space-law-disrespect-authority = Desrepeito à Autoridade
+guide-entry-space-law-disturbance = Distúrbio
+guide-entry-space-law-resistance = Resistência
+guide-entry-space-law-justice-obstruction = Obstrução de Justiça
+guide-entry-space-law-prison-evasion = Evasão de Prisão
+guide-entry-space-law-criminal-association = Associação Criminosa
+guide-entry-space-law-nano-treason = LesaTrasen
+guide-entry-space-law-crime-anteriority = Anterioridade
+guide-entry-space-law-crime-intention = Intenção do Crime
+guide-entry-space-law-consummation = Consumação
+guide-entry-space-law-attempt = Tentativa
+guide-entry-space-law-exercising-function = Exercício da Função
+guide-entry-space-law-accessory = Coautoria
+guide-entry-space-law-impossible-crime = Crime Impossível
+guide-entry-space-law-irrelevance = Irrelevância
+guide-entry-space-law-causality = Causalidade
+guide-entry-space-law-legitimate-defence = Legítima Defesa
+guide-entry-space-law-recidivism = Reincidência
+guide-entry-space-law-application = Aplicação
+guide-entry-space-law-carry-artefact = Porte de Artefato
+guide-entry-space-law-omission = Omissão

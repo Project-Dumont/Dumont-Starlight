@@ -1,0 +1,113 @@
+ent-ComputerAlert = computador de alertas atmosféricos
+    .desc = Usado para acessar o sistema automatizado de alertas da estação.
+
+ent-ComputerSensorMonitoring = computador de monitoramento de sensores
+    .desc = Um computador flexivel capaz de monitorar todos os tipos de sensores.
+
+ent-ComputerAtmosMonitoring = monitor de rede atmosférica
+    .desc = Usado para monitorar as redes atmosféricas da estação.
+
+ent-ComputerEmergencyShuttle = console da nave de emergência
+    .desc = Utilizado para fazer a nave de evacuação partir mais cedo.
+
+ent-BaseComputerShuttle = console de nave
+    .desc = Usado para pilotar uma nave.
+
+ent-ComputerShuttle = console de nave
+    .desc = Usado para pilotar uma nave.
+
+ent-ComputerShuttleSyndie = console de nave do Sindicato
+    .desc = Usado para pilotar uma nave do Sindicato.
+
+ent-ComputerShuttleCargo = console da nave de carga
+    .desc = Usado para pilotar a nave de carga.
+
+ent-ComputerIFF = console IAI
+    .desc = Utilizado para controlar as caracteristicas furtivas e de identificação desta embarcação.
+
+ent-ComputerIFFSyndicate = console IAI
+    .desc = Utilizado para controlar as caracteristicas furtivas e de identificação desta embarcação.
+    .suffix = Syndicate
+
+ent-ComputerPowerMonitoring = computador de monitoramento de energia
+    .desc = Usado para monitorar a condição da rede de distribuição de energia da estação.
+
+ent-ComputerMedicalRecords = computador de registros médicos
+    .desc = Utilizado para consultar o registros médicos.
+
+ent-ComputerCriminalRecords = computador de registros criminais
+    .desc = Utilizado para consultar o registros criminais.
+
+ent-ComputerStationRecords = computador de registros da estação
+    .desc = Utilizado para consultar o registros da estação.
+
+ent-ComputerCrewMonitoring = computador de monitoramento de tripulação
+    .desc = Um computador usado para monitorar o sinal dos sensores vitais dos uniformes da tripulação.
+
+ent-ComputerResearchAndDevelopment = computador de P&D
+    .desc = O computador que faz toda a mágica científica acontecer.
+
+ent-ComputerId = computador de cartões ID
+    .desc = Um computador utilizado para editar as informações contidas em um cartão de idenfiticação, como trabalho, nome e acessos.
+
+ent-computerBodyScanner = computador de avaliação médica
+    .desc = O ápice da tecnologia de avaliação médica. Faz o trabalho de mil analizadores médicos.
+
+ent-ComputerComms = computador de comunicação
+    .desc = Usado para várias funções. Quando acabar de ser desenvolvido, é claro.
+
+ent-SyndicateComputerComms = computador de comunicação do Sindicato
+    .desc = Usado para várias funções. Quando acabar de ser desenvolvido, é claro.
+    .suffix = Syndicate
+
+ent-ComputerSolarControl = console de controle solar
+    .desc = Usado para controlar os painéis solares.
+
+ent-ComputerRadar = computador do radar
+    .desc = Um computador que mostra os elementos detectados na volta de uma embarcação.
+
+ent-ComputerCargoShuttle = computador da nave de carga
+    .desc = Usado para controlar a nave de carga de forma remota.
+
+ent-ComputerCargoOrders = computador de requisições logisticas
+    .desc = Usado para comprar coisas pela internet, se você tiver dinheiro.
+
+ent-ComputerCargoBounty = computador de recompensas de logística
+    .desc = Usada para supervisar recompensas disponíveis.
+
+ent-ComputerCloningConsole = console de clonagem
+    .desc = O equipamento que controla o sistema de clonagem, a maior invenção médica desde a penicilina.
+
+ent-ComputerSurveillanceCameraMonitor = monitor de câmeras
+    .desc = Uma tela de monitoramento de câmeras. Para esquecer de usar.
+
+ent-ComputerSurveillanceWirelessCameraMonitor = monitor de câmeras sem fio
+    .desc = Uma tela de monitoramento de câmeras sem fio. Para esquecer de usar.
+
+ent-ComputerTelevision = televisão de tubo
+    .desc = Finalmente, o sinal ficou bom...
+
+ent-ComputerShuttleSalvage = console da nave de salvatagem
+    .desc = Usado para pilotar a nave de salvatagem.
+
+ent-ComputerPalletConsole = console de vendas da logística
+    .desc = Usado para vender mercadorias carregadas em paletes de carga.
+
+
+ent-ComputerCargoOrdersSecurity = console de requisições de segurança
+    .desc = Usado pelo departamento de segurança para comprar suprimentos. Solicitar algo gera uma fatura que deve ser inserida em um computador de requisição de logística e finalizar a compra.
+
+ent-ComputerCargoOrdersService = console de requisições de serviço
+    .desc = Usado pelo departamento de serviço para comprar suprimentos. Solicitar algo gera uma fatura que deve ser inserida em um computador de requisição de logística e finalizar a compra.
+
+ent-ComputerCargoOrdersScience = console de requisições de pesquisa e desenvolvimento
+    .desc = Usado pelo departamento de pesquisa e desenvolvimento para comprar suprimentos. Solicitar algo gera uma fatura que deve ser inserida em um computador de requisição de logística e finalizar a compra.
+
+ent-ComputerCargoOrdersMedical = console de requisições médico
+    .desc = Usado pelo departamento médico para comprar suprimentos. Solicitar algo gera uma fatura que deve ser inserida em um computador de requisição de logística e finalizar a compra.
+
+ent-ComputerCargoOrdersEngineering = console de requisições de engenharia
+    .desc = Usado pelo departamento de engenharia para comprar suprimentos. Solicitar algo gera uma fatura que deve ser inserida em um computador de requisição de logística e finalizar a compra.
+
+ent-ComputerTechnlogyDiskTerminal = terminal de discos de pesquisa
+    .desc = Utiliza pontos de pesquisa para imprimir discos de pesquisa de qualquer nível. É tipo apostar com seus pontos de pesquisa.
